@@ -1,10 +1,6 @@
 # ⏱️ Chrono_Timers - iOS Timer & Stopwatch App
 
-![stopwatch](https://github.com/user-attachments/assets/3abb84fe-2b72-49c5-b37a-e3e0abf99c68){width=150}
-
-![timer](images/timer.jpg)![timer](https://github.com/user-attachments/assets/70afeb73-7310-442a-8506-2c88f0e999e3){width=150}
-
-https://github.com/user-attachments/assets/69fab7fc-e181-42d0-a95b-55be38aa036f
+[Screenshots + Screen Recording!](#Screenshots)
 
 Chrono is a sleek and intuitive timer app designed to help you manage your time effectively. Whether you’re tracking laps or counting down to an important moment, Chrono has got you covered!
 
@@ -47,3 +43,10 @@ Countdown Timer ⏳
 	•	Make sure your device is not in Low Power Mode for the best experience.
 
 ⏱️ Ready to take control of your time? Let Chrono guide you every step of the way!
+
+
+# 📸 Screenshots
+
+![stopwatch](https://github.com/user-attachments/assets/3abb84fe-2b72-49c5-b37a-e3e0abf99c68){width=150}
+![timer](images/timer.jpg)![timer](https://github.com/user-attachments/assets/70afeb73-7310-442a-8506-2c88f0e999e3){width=150}
+https://github.com/user-attachments/assets/69fab7fc-e181-42d0-a95b-55be38aa036f
