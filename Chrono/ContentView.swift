@@ -12,7 +12,10 @@ struct ContentView: View {
 		NavigationSplitView {
 			List {
 				NavigationLink(destination: StopwatchesView()) {
-					Label("Stopwatch", systemImage: "timer")
+					Label("Stopwatch", systemImage: "stopwatch")
+				}
+				NavigationLink(destination: TimerView()) {
+					Label("Timers", systemImage: "timer")
 				}
 			}
 		} detail: {
