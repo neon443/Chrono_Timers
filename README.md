@@ -47,6 +47,8 @@ Countdown Timer ⏳
 
 # 📸 Screenshots
 
-![stopwatch](https://github.com/user-attachments/assets/3abb84fe-2b72-49c5-b37a-e3e0abf99c68){width=150}
-![timer](images/timer.jpg)![timer](https://github.com/user-attachments/assets/70afeb73-7310-442a-8506-2c88f0e999e3){width=150}
-https://github.com/user-attachments/assets/69fab7fc-e181-42d0-a95b-55be38aa036f
+![stopwatch](https://github.com/user-attachments/assets/3abb84fe-2b72-49c5-b37a-e3e0abf99c68)
+![timer](images/timer.jpg)![timer](https://github.com/user-attachments/assets/70afeb73-7310-442a-8506-2c88f0e999e3)
+
+https://github.com/user-attachments/assets/925bb481-8370-4755-b4dd-ab5c62572bfd
+
